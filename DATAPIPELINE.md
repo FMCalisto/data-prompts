@@ -39,8 +39,8 @@ INSERT
 
 ### Prompt 4
 
-Based on the full context of this chat, please help me with the following. You will have several requirements. Always use 2-space indentation. Please help me to create the unit tests for that Python script.
+Based on the full context of this chat, please help me with the following. You will have several requirements. Always use 2-space indentation. Please help me to create the unit tests for that Python script. Insert as many comments as possible. Try to explain the source code in detail using comments to support it. In addition, logs are used to log as many steps and stages as possible for the source code. You can use as many logs as possible.
 
 ### Prompt 5
 
-Based on the full context of this chat, please help me with the following. Please help me create an issue on GitHub summarizing what we have improved until now. Please help me commit to closing that issue at the same time. Remember to describe the labels and milestones to choose from. Please always choose one type, status, and priority for the labels. For the milestones, please select the one that best fits the issue.
+Based on the full context of this chat, please help me with the following. Please help me create an issue on GitHub summarizing what we have improved until now. Please help me commit to closing that issue at the same time. Please remember to describe the labels and milestones to choose from. Please always choose one type, status, and priority for the labels. For the milestones, please select the one that best fits the issue.
