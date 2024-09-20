@@ -31,7 +31,7 @@ Rule 2:
 
 ### Prompt 3
 
-Based on the full context of this chat, please help me with the following. We have the following Python script that we would like you to improve and optimize. You will have several requirements. Always use 2-space indentation. Remember to update the script version. Please help me to improve the following Python script. Insert as many comments as possible. Try to explain the source code in detail using comments to support it. In addition, logs are used to log as many steps and stages as possible for the source code. You can use as many logs as possible.
+Based on the full context of this chat, please help me with the following. We have the following Python script that we would like you to improve and optimize. You will have several requirements. Always use 2-space indentation. Remember to update the script version. Please help me to improve the following Python script. Insert as many comments as possible. Try to explain the source code in detail using comments to support it. In addition, logs are used to log as many steps and stages as possible for the source code. You can use as many logs as possible. Any file path should be handled holistically.
 
 The current source code to be improved:
 
