@@ -4,7 +4,7 @@ Based on the full context of this chat, please help me with the following. We ha
 
 The current source code to be improved:
 
-<INSERT>
+INSERT
 
 ### Prompt N
 
