@@ -31,7 +31,7 @@ Rule 2:
 
 ### Prompt 3
 
-Based on the full context of this chat, please help me with the following. We have the following Python script that we would like you to improve and optimize. You will have several requirements. Always use 2-space indentation. Remember to update the script version. Please help me to improve the following Python script. Insert as many comments as possible. Try to explain the source code in detail using comments to support it. In addition, logs are used to log as many steps and stages as possible for the source code. You can use as many logs as possible. Any file path should be handled holistically.
+Based on the full context of this chat, please help me with the following. We have the following script that we would like you to improve and optimize. You will have several requirements. Always use 2-space indentation. Remember to update the script version. Please help me to improve the following script. Insert as many comments as possible. Try to explain the source code in detail using comments to support it. In addition, logs are used to log as many steps and stages as possible for the source code. You can use as many logs as possible. Any file path should be handled holistically.
 
 The current source code to be improved:
 
@@ -39,7 +39,7 @@ INSERT
 
 ### Prompt 4
 
-Based on the full context of this chat, please help me with the following. It seems that the Python script doesn't handle massive datasets. Please help to brainstorm some ideas on how to handle it.
+Based on the full context of this chat, please help me with the following. It seems that the script doesn't handle massive datasets. Please help to brainstorm some ideas on how to handle it.
 
 ### Prompt 5
 
@@ -47,7 +47,7 @@ Based on the full context of this chat, please help me with the following. Pleas
 
 ### Prompt 6
 
-Based on the full context of this chat, please help me with the following. You will have several requirements. Always use 2-space indentation. Please help me to create the unit tests for that Python script. Insert as many comments as possible. Try to explain the source code in detail using comments to support it. In addition, logs are used to log as many steps and stages as possible for the source code. You can use as many logs as possible.
+Based on the full context of this chat, please help me with the following. You will have several requirements. Always use 2-space indentation. Please help me to create the unit tests for that script. Insert as many comments as possible. Try to explain the source code in detail using comments to support it. In addition, logs are used to log as many steps and stages as possible for the source code. You can use as many logs as possible.
 
 ### Prompt 7
 
